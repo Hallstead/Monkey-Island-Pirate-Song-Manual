@@ -1,0 +1,28 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "Verses 1-4": {
+        "requires": [],
+        "connects_to": [
+            "Verse 5"
+        ],
+        "starting": true
+    },
+    "Verse 5": {
+        "connects_to": [
+            "Verse 6"
+        ]
+    },
+    "Verse 6": {
+        "connects_to": [
+            "Verse 7"
+        ]
+    },
+    "Verse 7": {
+        "connects_to": [
+            "Verse 8"
+        ]
+    },
+    "Verse 8": {
+        "connects_to": []
+    }
+}

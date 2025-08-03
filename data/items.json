@@ -1,0 +1,73 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "count": 1,
+            "name": "Come on, men! We've got to recover that map!",
+            "category": [
+                "Lyrics"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Let's go defeat that evil pirate!",
+            "category": [
+                "Lyrics"
+            ],
+            "progression": true,
+            "early": true
+        },
+        {
+            "count": 1,
+            "name": "All right, crew, let's get to work!",
+            "category": [
+                "Lyrics"
+            ],
+            "progression": true,
+            "early": true
+        },
+        {
+            "count": 1,
+            "name": "No time for song! We've got to move!",
+            "category": [
+                "Lyrics"
+            ],
+            "progression": true,
+            "early": true
+        },
+        {
+            "count": 1,
+            "name": "Less singing, more sailing.",
+            "category": [
+                "Lyrics"
+            ],
+            "progression": true,
+            "early": true
+        },
+        {
+            "count": 1,
+            "name": "I´m getting so sick of you guys and your rhyming.",
+            "category": [
+                "Lyrics"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Stop! Stop! Stop!",
+            "category": [
+                "Lyrics"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "We'll surely avoid scurvy if we all eat an orange.",
+            "category": [
+                "Lyrics"
+            ],
+            "progression": true
+        }
+    ]
+}

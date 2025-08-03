@@ -1,0 +1,21 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Guybrush": {
+        "hidden": true
+    },
+    "Bill": {
+        "hidden": true
+    },
+    "Edward": {
+        "hidden": true
+    },
+    "Haggis": {
+        "hidden": true
+    },
+    "Not Verse": {
+        "hidden": true
+    },
+    "All": {
+        "hidden": true
+    }
+}

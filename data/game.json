@@ -1,0 +1,15 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "A Pirate I Was Ment To Be",
+  "creator": "Hallstead",
+  "filler_item_name": "an orange",
+  "starting_items": [
+    {
+      "items": [
+        "Come on, men! We've got to recover that map!"
+      ]
+    }
+  ],
+  "death_link": false,
+  "starting_index": 1
+}

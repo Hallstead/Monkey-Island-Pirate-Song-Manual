@@ -1,0 +1,413 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Come on, men! We've got to recover that map!",
+            "category": ["Verse 1", "Guybrush"],
+            "requires": "|Come on, men! We've got to recover that map!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "That pirate will be done for, when he falls into our trap!",
+            "category": ["Verse 1", "Bill"],
+            "requires": "|Come on, men! We've got to recover that map!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "We're a club of tuneful rovers!",
+            "category": ["Verse 1", "Bill"],
+            "requires": "|Come on, men! We've got to recover that map!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "We can sing in every clef!",
+            "category": ["Verse 1", "Haggis"],
+            "requires": "|Come on, men! We've got to recover that map!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "We can even hit the high notes!",
+            "category": ["Verse 1", "Edward"],
+            "requires": "|Come on, men! We've got to recover that map!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "It's just too bad we're tone deaf!",
+            "category": ["Verse 1", "Haggis"],
+            "requires": "|Come on, men! We've got to recover that map!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "A pirate I was meant to be! (Verse 1)",
+            "category": ["Verse 1", "All"],
+            "requires": "|Come on, men! We've got to recover that map!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "Trim the sails and roam the sea! (Verse 1)",
+            "category": ["Verse 1", "All"],
+            "requires": "|Come on, men! We've got to recover that map!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "Let's go defeat that evil pirate!",
+            "category": ["Verse 2", "Guybrush"],
+            "requires": "|Let's go defeat that evil pirate!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "We know he's sure to lose, ´cause we know just where to fire at!",
+            "category": ["Verse 2", "Edward"],
+            "requires": "|Let's go defeat that evil pirate!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "We're thieving balladeers.",
+            "category": ["Verse 2", "Edward"],
+            "requires": "|Let's go defeat that evil pirate!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "A gang of cutthroat mugs.",
+            "category": ["Verse 2", "Haggis"],
+            "requires": "|Let's go defeat that evil pirate!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "To fight us off ye don't need guns!",
+            "category": ["Verse 2", "Bill"],
+            "requires": "|Let's go defeat that evil pirate!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "Just jolly good ear plugs!",
+            "category": ["Verse 2", "Edward"],
+            "requires": "|Let's go defeat that evil pirate!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "A pirate I was meant to be! (Verse 2)",
+            "category": ["Verse 2", "All"],
+            "requires": "|Let's go defeat that evil pirate!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "Trim the sails and roam the sea! (Verse 2)",
+            "category": ["Verse 2", "All"],
+            "requires": "|Let's go defeat that evil pirate!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "All right, crew, let's get to work!",
+            "category": ["Verse 3", "Guybrush"],
+            "requires": "|All right, crew, let's get to work!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "Our vocation is a thing we love, a thing we'd never shirk.",
+            "category": ["Verse 3", "Haggis"],
+            "requires": "|All right, crew, let's get to work!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "We'll fight you in the harbor.",
+            "category": ["Verse 3", "Haggis"],
+            "requires": "|All right, crew, let's get to work!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "We'll battle you on land.",
+            "category": ["Verse 3", "Bill"],
+            "requires": "|All right, crew, let's get to work!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "When you meet singing pirates...",
+            "category": ["Verse 3", "Edward"],
+            "requires": "|All right, crew, let's get to work!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "They'll be more than you can stand.",
+            "category": ["Verse 3", "Guybrush", "Not Verse"],
+            "requires": "|All right, crew, let's get to work!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "Ooooh! That was a good one!",
+            "category": ["Verse 3", "Bill"],
+            "requires": "|All right, crew, let's get to work!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "No, it wasn't.",
+            "category": ["Verse 3", "Guybrush", "Not Verse"],
+            "requires": "|All right, crew, let's get to work!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "No time for song! We've got to move!",
+            "category": ["Verse 4", "Guybrush"],
+            "requires": "|No time for song! We've got to move!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "The battle will be long, but our courage we will prove!",
+            "category": ["Verse 4", "Bill"],
+            "requires": "|No time for song! We've got to move!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "We're a pack a´ scurvy sea dogs.",
+            "category": ["Verse 4", "Bill"],
+            "requires": "|No time for song! We've got to move!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "Have we pity? Not a dram!",
+            "category": ["Verse 4", "Haggis"],
+            "requires": "|No time for song! We've got to move!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "We all eat roasted garlic...",
+            "category": ["Verse 4", "Edward"],
+            "requires": "|No time for song! We've got to move!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "...then sing from the diaphragm!",
+            "category": ["Verse 4", "Haggis"],
+            "requires": "|No time for song! We've got to move!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "A pirate I was meant to be! (Verse 4)",
+            "category": ["Verse 4", "All"],
+            "requires": "|No time for song! We've got to move!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "Trim the sails and roam the sea! (Verse 4)",
+            "category": ["Verse 4", "All"],
+            "requires": "|No time for song! We've got to move!|",
+            "region": "Verses 1-4"
+        },
+        {
+            "name": "Less singing, more sailing.",
+            "category": ["Verse 5", "Guybrush"],
+            "requires": "|Less singing, more sailing.| and |@Lyrics:2|",
+            "region": "Verse 5"
+        },
+        {
+            "name": "When we defeat our wicked foe, his ship he will be bailing!",
+            "category": ["Verse 5", "Edward"],
+            "requires": "|Less singing, more sailing.| and |@Lyrics:2|",
+            "region": "Verse 5"
+        },
+        {
+            "name": "If ye try ta fight us...",
+            "category": ["Verse 5", "Bill"],
+            "requires": "|Less singing, more sailing.| and |@Lyrics:2|",
+            "region": "Verse 5"
+        },
+        {
+            "name": "...you will get a nasty whackin´!",
+            "category": ["Verse 5", "Haggis"],
+            "requires": "|Less singing, more sailing.| and |@Lyrics:2|",
+            "region": "Verse 5"
+        },
+        {
+            "name": "If ya disrespect our singing´...",
+            "category": ["Verse 5", "Edward"],
+            "requires": "|Less singing, more sailing.| and |@Lyrics:2|",
+            "region": "Verse 5"
+        },
+        {
+            "name": "...we will feed ya to a kraken!",
+            "category": ["Verse 5", "Bill"],
+            "requires": "|Less singing, more sailing.| and |@Lyrics:2|",
+            "region": "Verse 5"
+        },
+        {
+            "name": "A pirate I was meant to be! (Verse 5)",
+            "category": ["Verse 5", "All"],
+            "requires": "|Less singing, more sailing.| and |@Lyrics:2|",
+            "region": "Verse 5"
+        },
+        {
+            "name": "Trim the sails and roam the sea! (Verse 5)",
+            "category": ["Verse 5", "All"],
+            "requires": "|Less singing, more sailing.| and |@Lyrics:2|",
+            "region": "Verse 5"
+        },
+        {
+            "name": "I´m getting so sick of you guys and your rhyming.",
+            "category": ["Verse 6", "Guybrush"],
+            "requires": "|I´m getting so sick of you guys and your rhyming.| and |@Lyrics:3|",
+            "region": "Verse 6"
+        },
+        {
+            "name": "We're ready to set sail, through the cannons need a priming.",
+            "category": ["Verse 6", "Haggis"],
+            "requires": "|I´m getting so sick of you guys and your rhyming.| and |@Lyrics:3|",
+            "region": "Verse 6"
+        },
+        {
+            "name": "We're troublesome corsairs!",
+            "category": ["Verse 6", "Edward"],
+            "requires": "|I´m getting so sick of you guys and your rhyming.| and |@Lyrics:3|",
+            "region": "Verse 6"
+        },
+        {
+            "name": "And we've come to steal your treasures!",
+            "category": ["Verse 6", "Bill"],
+            "requires": "|I´m getting so sick of you guys and your rhyming.| and |@Lyrics:3|",
+            "region": "Verse 6"
+        },
+        {
+            "name": "We would shoot you on the downbeat...",
+            "category": ["Verse 6", "Haggis"],
+            "requires": "|I´m getting so sick of you guys and your rhyming.| and |@Lyrics:3|",
+            "region": "Verse 6"
+        },
+        {
+            "name": "...but we gotta rest five measures.",
+            "category": ["Verse 6", "Edward"],
+            "requires": "|I´m getting so sick of you guys and your rhyming.| and |@Lyrics:3|",
+            "region": "Verse 6"
+        },
+        {
+            "name": "A pirate I was meant to be! (Verse 6)",
+            "category": ["Verse 6", "All"],
+            "requires": "|I´m getting so sick of you guys and your rhyming.| and |@Lyrics:3|",
+            "region": "Verse 6"
+        },
+        {
+            "name": "Trim the sails and roam the sea! (Verse 6)",
+            "category": ["Verse 6", "All"],
+            "requires": "|I´m getting so sick of you guys and your rhyming.| and |@Lyrics:3|",
+            "region": "Verse 6"
+        },
+        {
+            "name": "Stop! Stop! Stop!",
+            "category": ["Verse 7", "Guybrush"],
+            "requires": "|Stop! Stop! Stop!| and |@Lyrics:4|",
+            "region": "Verse 7"
+        },
+        {
+            "name": "The brass is what we'll polish and the deck is what we'll mop.",
+            "category": ["Verse 7", "Bill"],
+            "requires": "|Stop! Stop! Stop!| and |@Lyrics:4|",
+            "region": "Verse 7"
+        },
+        {
+            "name": "You say you're nasty pirates...",
+            "category": ["Verse 7", "Guybrush", "Not Verse"],
+            "requires": "|Stop! Stop! Stop!| and |@Lyrics:4|",
+            "region": "Verse 7"
+        },
+        {
+            "name": "...scheming, thieving, bad bushwhackers?",
+            "category": ["Verse 7", "Guybrush", "Not Verse"],
+            "requires": "|Stop! Stop! Stop!| and |@Lyrics:4|",
+            "region": "Verse 7"
+        },
+        {
+            "name": "From what I've seen I tell you...",
+            "category": ["Verse 7", "Guybrush", "Not Verse"],
+            "requires": "|Stop! Stop! Stop!| and |@Lyrics:4|",
+            "region": "Verse 7"
+        },
+        {
+            "name": "...you're not pirates! You're just slackers!",
+            "category": ["Verse 7", "Guybrush", "Not Verse"],
+            "requires": "|Stop! Stop! Stop!| and |@Lyrics:4|",
+            "region": "Verse 7"
+        },
+        {
+            "name": "A pirate I was meant to be! (Verse 7)",
+            "category": ["Verse 7", "All"],
+            "requires": "|Stop! Stop! Stop!| and |@Lyrics:4|",
+            "region": "Verse 7"
+        },
+        {
+            "name": "Trim the sails and roam the sea! (Verse 7)",
+            "category": ["Verse 7", "All"],
+            "requires": "|Stop! Stop! Stop!| and |@Lyrics:4|",
+            "region": "Verse 7"
+        },
+        {
+            "name": "We'll surely avoid scurvy if we all eat an orange.",
+            "category": ["Verse 8/Outro", "Guybrush"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "And...!",
+            "category": ["Verse 8/Outro", "Haggis"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "...um...",
+            "category": ["Verse 8/Outro", "Haggis"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "Well...",
+            "category": ["Verse 8/Outro", "Bill"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "...err...",
+            "category": ["Verse 8/Outro", "Edward"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "Door hinge?",
+            "category": ["Verse 8/Outro", "Bill"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "No, no...",
+            "category": ["Verse 8/Outro", "Edward"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "Guess the song's over, then.",
+            "category": ["Verse 8/Outro", "Bill"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "Guess so.",
+            "category": ["Verse 8/Outro", "Haggis"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "Okay, back to work.",
+            "category": ["Verse 8/Outro", "Edward"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "Well gee. I feel a little guilty, now.",
+            "category": ["Verse 8/Outro", "Guybrush", "Not Verse"],
+            "requires": "|We'll surely avoid scurvy if we all eat an orange.| and ((|@Lyrics:5| and {last_song_last_disabled()}) or (|@Lyrics:all| and {last_song_last_enabled()}))",
+            "region": "Verse 8"
+        },
+        {
+            "name": "Sing the whole song!\n'A pirate I was ment to be.",
+            "category": ["Goal"],
+            "requires": "|@Lyrics:all|",
+            "victory": true
+        }
+    ]
+}
