@@ -63,7 +63,7 @@ class ManualClientCommandProcessor(ClientCommandProcessor):
 
 class ManualContext(SuperContext):
     command_processor = ManualClientCommandProcessor
-    game = "not set"  # this is changed in server_auth below based on user input
+    game = None  # this is changed in server_auth below based on user input
     items_handling = 0b111  # full remote
     tags = {"AP"}
 
@@ -577,7 +577,7 @@ class ManualContext(SuperContext):
                     if location_category in victory_categories:
                         # Add the Victory location to be marked at any point, which is why locations length has 1 added to it above
                         victory_text = "VICTORY! (seed finished)" if victory_location["name"] == "__Manual Game Complete__" else "GOAL: " + victory_location["name"]
-                        location_button = TreeViewButton(text=victory_text, size_hint=(None, None), height=dp(30), width=dp(400))
+                        location_button = TreeViewButton(text=victory_text, size_hint=(None, None), height=dp(30), width=dp(450))
                         location_button.victory = True
                         location_button.bind(on_release=self.victory_button_callback)
                         category_layout.add_widget(location_button)
@@ -660,7 +660,7 @@ class ManualContext(SuperContext):
                                             item.height = 0
                                             item.opacity = 0
                                         else:
-                                            item.width = dp(400)
+                                            item.width = dp(450)
                                             item.height = dp(30)
                                             item.opacity = 1
 
@@ -756,7 +756,7 @@ class ManualContext(SuperContext):
 
                                 # since victory is handled more briefly below, need to pull show/hide into functions here to reuse
                                 def show_button_during_search(btn: TreeViewButton):
-                                    btn.width = dp(400)
+                                    btn.width = dp(450)
                                     btn.height = dp(30)
                                     btn.opacity = 1
                                     btn.disabled = False

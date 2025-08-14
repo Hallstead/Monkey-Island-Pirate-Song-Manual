@@ -404,7 +404,7 @@
             "region": "Verse 8"
         },
         {
-            "name": "Sing the whole song!\n'A pirate I was ment to be.",
+            "name": "Sing the whole song! - 'A pirate I was ment to be.'",
             "category": ["Goal"],
             "requires": "|@Lyrics:all|",
             "victory": true
